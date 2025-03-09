@@ -7,6 +7,7 @@ import * as FileSaver from 'file-saver';
 // or less ideally
 import { Button, Col, Container, Form, InputGroup, Row, Spinner, Table } from 'react-bootstrap';
 import Footer from './componant/Footer';
+import SocialMedia from './componant/SocialMedia';
 
 function App() {
 
@@ -302,7 +303,7 @@ function App() {
           
        
        
-       <Footer/>
+       <SocialMedia/>
 
       </Container>
 

@@ -143,3 +143,18 @@ margin-top: 20px;
   margin-bottom:0;
 }
 
+.social-media-div{
+  display: inline-block;
+   position: fixed;
+    bottom: 50px;
+     right: 30px;
+     padding-left: 15px;
+     padding-right: 15px;
+     padding-top: 5px;
+     padding-bottom: 5px;
+     background-color: white;
+     border: 1px solid white;
+     border-radius: 5px;
+     width:50px;
+     opacity: .8;
+}
